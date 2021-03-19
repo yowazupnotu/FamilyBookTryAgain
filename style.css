@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: royalblue;
+}
+img{
+    width: 500px;
+    height: 550px;
+    border-style: solid;
+    border-color: aqua;
+}
